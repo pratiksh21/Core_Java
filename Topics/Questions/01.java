@@ -1,4 +1,4 @@
----------------why class does not support multiple inheritance while interfaces does ?
+--------------why class does not support multiple inheritance while interfaces does ?
 
 Now, think of class as the blueprint for making these toy cars. Each class tells us what powers (or methods) a toy car has. But in Java, when you make a new toy car, it can only get powers from one blueprint (or class).
 
